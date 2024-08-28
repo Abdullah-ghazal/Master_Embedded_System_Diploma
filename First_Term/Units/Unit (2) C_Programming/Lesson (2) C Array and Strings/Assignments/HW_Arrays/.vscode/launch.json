@@ -1,0 +1,24 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "d:/Embedded System Diploma Online KS/Data/Unit (2) C_Programming/Lesson (4) ‎C Array & String‎/Assignments/HW_String",
+      "program": "d:/Embedded System Diploma Online KS/Data/Unit (2) C_Programming/Lesson (4) ‎C Array & String‎/Assignments/HW_String/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
