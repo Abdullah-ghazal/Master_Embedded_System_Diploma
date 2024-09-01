@@ -1,0 +1,88 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1">
+<line  x1="87" y1="50" x2="162" y2="50" stroke="#333333" stroke-width="1" fill="none"/>
+<line  x1="125" y1="50" x2="125" y2="65" stroke="#333333" stroke-width="1" fill="none"/>
+<text  x="69" y="48" style="font-size:12; font-family:Dialog.plain; fill=#333333">Collision_Avoidance</text>
+<text  x="10" y="73" style="font-size:12; font-family:Dialog.plain; fill=#333333">@0</text>
+<line  x1="125" y1="65" x2="125" y2="75" stroke="#333333" stroke-width="1" fill="none"/>
+<rect  x="104" y="75" width="43" height="20" rx="5" ry="5" fill="#c1daf1"/>
+<rect  x="104" y="75" width="43" height="20" rx="5" ry="5" fill="none" stroke="#333333" stroke-width="1"/>
+<text  x="106" y="91" style="font-size:12; font-family:Dialog.plain; fill=#333333">waiting</text>
+<line  x1="125" y1="95" x2="125" y2="105" stroke="#333333" stroke-width="1" fill="none"/>
+<line  x1="125" y1="105" x2="125" y2="115" stroke="#333333" stroke-width="1" fill="none"/>
+<rect  x="95" y="115" width="61" height="20" rx="5" ry="5" fill="#c1daf1"/>
+<rect  x="95" y="115" width="61" height="20" rx="5" ry="5" fill="none" stroke="#333333" stroke-width="1"/>
+<text  x="97" y="131" style="font-size:12; font-family:Dialog.plain; fill=#333333">choice__1</text>
+<line  x1="125" y1="135" x2="125" y2="145" stroke="#333333" stroke-width="1" fill="none"/>
+<rect  x="96" y="145" width="59" height="20" rx="5" ry="5" fill="#ffffff"/>
+<rect  x="96" y="145" width="59" height="20" rx="5" ry="5" fill="none" stroke="#333333" stroke-width="1"/>
+<text  x="98" y="161" style="font-size:12; font-family:Dialog.plain; fill=#7710f3">speed = 0</text>
+<line  x1="125" y1="165" x2="125" y2="175" stroke="#333333" stroke-width="1" fill="none"/>
+<line  x1="125" y1="175" x2="125" y2="185" stroke="#333333" stroke-width="1" fill="none"/>
+<rect  x="104" y="185" width="43" height="20" rx="5" ry="5" fill="#c1daf1"/>
+<rect  x="104" y="185" width="43" height="20" rx="5" ry="5" fill="none" stroke="#333333" stroke-width="1"/>
+<text  x="106" y="201" style="font-size:12; font-family:Dialog.plain; fill=#333333">waiting</text>
+<line  x1="125" y1="205" x2="125" y2="215" stroke="#333333" stroke-width="1" fill="none"/>
+<line  x1="125" y1="215" x2="125" y2="225" stroke="#333333" stroke-width="1" fill="none"/>
+<rect  x="95" y="225" width="61" height="20" rx="5" ry="5" fill="#c1daf1"/>
+<rect  x="95" y="225" width="61" height="20" rx="5" ry="5" fill="none" stroke="#333333" stroke-width="1"/>
+<text  x="97" y="241" style="font-size:12; font-family:Dialog.plain; fill=#333333">choice__1</text>
+<line  x1="125" y1="245" x2="125" y2="255" stroke="#333333" stroke-width="1" fill="none"/>
+<rect  x="96" y="255" width="59" height="20" rx="5" ry="5" fill="#ffffff"/>
+<rect  x="96" y="255" width="59" height="20" rx="5" ry="5" fill="none" stroke="#333333" stroke-width="1"/>
+<text  x="98" y="271" style="font-size:12; font-family:Dialog.plain; fill=#7710f3">speed = 0</text>
+<line  x1="125" y1="275" x2="125" y2="285" stroke="#333333" stroke-width="1" fill="none"/>
+<line  x1="125" y1="285" x2="125" y2="295" stroke="#333333" stroke-width="1" fill="none"/>
+<rect  x="104" y="295" width="43" height="20" rx="5" ry="5" fill="#c1daf1"/>
+<rect  x="104" y="295" width="43" height="20" rx="5" ry="5" fill="none" stroke="#333333" stroke-width="1"/>
+<text  x="106" y="311" style="font-size:12; font-family:Dialog.plain; fill=#333333">waiting</text>
+<line  x1="125" y1="315" x2="125" y2="325" stroke="#333333" stroke-width="1" fill="none"/>
+<line  x1="125" y1="325" x2="125" y2="335" stroke="#333333" stroke-width="1" fill="none"/>
+<rect  x="95" y="335" width="61" height="20" rx="5" ry="5" fill="#c1daf1"/>
+<rect  x="95" y="335" width="61" height="20" rx="5" ry="5" fill="none" stroke="#333333" stroke-width="1"/>
+<text  x="97" y="351" style="font-size:12; font-family:Dialog.plain; fill=#333333">choice__1</text>
+<line  x1="125" y1="355" x2="125" y2="365" stroke="#333333" stroke-width="1" fill="none"/>
+<rect  x="96" y="365" width="59" height="20" rx="5" ry="5" fill="#ffffff"/>
+<rect  x="96" y="365" width="59" height="20" rx="5" ry="5" fill="none" stroke="#333333" stroke-width="1"/>
+<text  x="98" y="381" style="font-size:12; font-family:Dialog.plain; fill=#7710f3">speed = 0</text>
+<line  x1="125" y1="385" x2="125" y2="395" stroke="#333333" stroke-width="1" fill="none"/>
+<line  x1="125" y1="395" x2="125" y2="405" stroke="#333333" stroke-width="1" fill="none"/>
+<rect  x="104" y="405" width="43" height="20" rx="5" ry="5" fill="#c1daf1"/>
+<rect  x="104" y="405" width="43" height="20" rx="5" ry="5" fill="none" stroke="#333333" stroke-width="1"/>
+<text  x="106" y="421" style="font-size:12; font-family:Dialog.plain; fill=#333333">waiting</text>
+<line  x1="125" y1="425" x2="125" y2="435" stroke="#333333" stroke-width="1" fill="none"/>
+<line  x1="125" y1="435" x2="125" y2="445" stroke="#333333" stroke-width="1" fill="none"/>
+<rect  x="95" y="445" width="61" height="20" rx="5" ry="5" fill="#c1daf1"/>
+<rect  x="95" y="445" width="61" height="20" rx="5" ry="5" fill="none" stroke="#333333" stroke-width="1"/>
+<text  x="97" y="461" style="font-size:12; font-family:Dialog.plain; fill=#333333">choice__1</text>
+<line  x1="125" y1="465" x2="125" y2="475" stroke="#333333" stroke-width="1" fill="none"/>
+<rect  x="96" y="475" width="59" height="20" rx="5" ry="5" fill="#ffffff"/>
+<rect  x="96" y="475" width="59" height="20" rx="5" ry="5" fill="none" stroke="#333333" stroke-width="1"/>
+<text  x="98" y="491" style="font-size:12; font-family:Dialog.plain; fill=#7710f3">speed = 0</text>
+<line  x1="125" y1="495" x2="125" y2="505" stroke="#333333" stroke-width="1" fill="none"/>
+<line  x1="125" y1="505" x2="125" y2="515" stroke="#333333" stroke-width="1" fill="none"/>
+<rect  x="104" y="515" width="43" height="20" rx="5" ry="5" fill="#c1daf1"/>
+<rect  x="104" y="515" width="43" height="20" rx="5" ry="5" fill="none" stroke="#333333" stroke-width="1"/>
+<text  x="106" y="531" style="font-size:12; font-family:Dialog.plain; fill=#333333">waiting</text>
+<line  x1="125" y1="535" x2="125" y2="545" stroke="#333333" stroke-width="1" fill="none"/>
+<line  x1="125" y1="545" x2="125" y2="555" stroke="#333333" stroke-width="1" fill="none"/>
+<rect  x="95" y="555" width="61" height="20" rx="5" ry="5" fill="#c1daf1"/>
+<rect  x="95" y="555" width="61" height="20" rx="5" ry="5" fill="none" stroke="#333333" stroke-width="1"/>
+<text  x="97" y="571" style="font-size:12; font-family:Dialog.plain; fill=#333333">choice__1</text>
+<line  x1="125" y1="575" x2="125" y2="585" stroke="#333333" stroke-width="1" fill="none"/>
+<rect  x="96" y="585" width="59" height="20" rx="5" ry="5" fill="#ffffff"/>
+<rect  x="96" y="585" width="59" height="20" rx="5" ry="5" fill="none" stroke="#333333" stroke-width="1"/>
+<text  x="98" y="601" style="font-size:12; font-family:Dialog.plain; fill=#7710f3">speed = 0</text>
+<line  x1="125" y1="605" x2="125" y2="615" stroke="#333333" stroke-width="1" fill="none"/>
+<line  x1="125" y1="615" x2="125" y2="625" stroke="#333333" stroke-width="1" fill="none"/>
+<rect  x="104" y="625" width="43" height="20" rx="5" ry="5" fill="#c1daf1"/>
+<rect  x="104" y="625" width="43" height="20" rx="5" ry="5" fill="none" stroke="#333333" stroke-width="1"/>
+<text  x="106" y="641" style="font-size:12; font-family:Dialog.plain; fill=#333333">waiting</text>
+<line  x1="125" y1="645" x2="125" y2="655" stroke="#333333" stroke-width="1" fill="none"/>
+<line  x1="125" y1="655" x2="125" y2="665" stroke="#333333" stroke-width="1" fill="none"/>
+<rect  x="95" y="665" width="61" height="20" rx="5" ry="5" fill="#c1daf1"/>
+<rect  x="95" y="665" width="61" height="20" rx="5" ry="5" fill="none" stroke="#333333" stroke-width="1"/>
+<text  x="97" y="681" style="font-size:12; font-family:Dialog.plain; fill=#333333">choice__1</text>
+<line  x1="125" y1="685" x2="125" y2="695" stroke="#333333" stroke-width="1" fill="none"/>
+</svg>
